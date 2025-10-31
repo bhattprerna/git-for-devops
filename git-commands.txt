@@ -5,3 +5,8 @@ git commit -m ""
 git rm --cached filename
 git restore filename
 
+git remote -v
+
+git remote -v
+git push origin master
+
